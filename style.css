@@ -268,7 +268,7 @@ html,body{
     background-color: rgb(26, 26, 26);
     color: #fff;
     border-radius: 50%;
-    right: -13%;
+    right: -10%;
     top: -10%;
     display: flex;
     align-items: center;
@@ -284,7 +284,7 @@ html,body{
 #rotated{
     position: absolute;
     left: 0;
-    top: -13%;
+    top: -10%;
     rotate: 0deg;
     transform-origin: 0 0;
     font-size: 25px;
